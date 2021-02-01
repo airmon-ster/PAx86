@@ -1,6 +1,6 @@
 ; HelloWorld.asm from pentesterAcademy course
 ; x86 helloWorld
-; /usr/src/linux-headers-5.4.0-1029-aws/include/uapi/asm-generic/unistd.h
+; /usr/include/x86_64-linux-gnu/asm/unistd_32.h
 ; EAX systemcall
 ; EBX 1st arg
 ; ECX 2nd arg
